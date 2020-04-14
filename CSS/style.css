@@ -1,8 +1,8 @@
-h1 {display:inline-block;}
-h1 {vertical-align: top;}
-div {width:23%; padding: 1%;}
-nav {width: 73%;padding: 1%;}
-ul {width: 50%; margin-left: auto;}
-p {text-align: center;}
-footer {background-color: #373738;}
-ul {inset-block: 50%; vertical-align: top;}
+h1{display:inline-block;}
+h1{vertical-align: top;}
+section{width:23%; padding: 1%;}
+section{width: 73%;padding: 1%;}
+section{width: 50%; margin-left: auto;list-style-type: none;}
+p{text-align: center;}
+section{background-color: #373738;}
+ul{inset-block: 50%; vertical-align: top;}
